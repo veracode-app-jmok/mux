@@ -8,7 +8,7 @@
 
 ![Gorilla Logo](https://github.com/gorilla/.github/assets/53367916/d92caabf-98e0-473e-bfbf-ab554ba435e5)
 
-Package `gorilla/mux` implements a request router and dispatcher for matching incoming requests to
+Package `gorilla/mux` implements a request router and dispatcher for matching in   coming requests to
 their respective handler.
 
 The name mux stands for "HTTP request multiplexer". Like the standard `http.ServeMux`, `mux.Router` matches incoming requests against a list of registered routes and calls a handler for the route that matches the URL or other conditions. The main features are:
